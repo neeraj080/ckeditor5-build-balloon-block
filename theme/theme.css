@@ -21,3 +21,12 @@
 .ck-block-toolbar-button .ck-tooltip {
 	display: none !important;
 }
+
+.ck-toolbar-container .ck.ck-toolbar {
+    border: 0;
+    background-color: #FFF;
+}
+
+.ck.ck-toolbar__items > button {
+    padding: 10px 9px !important;
+}
