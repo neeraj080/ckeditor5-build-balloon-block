@@ -96,6 +96,8 @@
     }
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-upload": "^16.0.0"
+    "@ckeditor/ckeditor5-upload": "^16.0.0",
+    "css-loader": "^3.3.2",
+    "mini-css-extract-plugin": "^0.8.0"
   }
 }
